@@ -7,10 +7,6 @@
         "eventFormatMultiLine": false,
         "channels": [
           {
-            "name": "system",
-            "level": "Error"
-          },
-          {
             "name": "Application",
             "level": "Warning,Error"
           }
