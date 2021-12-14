@@ -8,7 +8,11 @@
         "channels": [
           {
             "name": "Application",
-            "level": "Warning,Error"
+            "level": "Warning"
+          },
+          {
+            "name": "Application",
+            "level": "Error"
           }
         ]
       },
