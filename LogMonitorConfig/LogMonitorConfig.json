@@ -7,8 +7,8 @@
         "eventFormatMultiLine": false,
         "channels": [
           {
-            "name": "application",
-            "level": "Warning"
+            "name": "system",
+            "level": "Error"
           },
           {
             "name": "application",
